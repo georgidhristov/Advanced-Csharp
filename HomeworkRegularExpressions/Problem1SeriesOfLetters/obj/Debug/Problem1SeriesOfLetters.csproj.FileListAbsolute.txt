@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem1SeriesOfLetters\bin\Debug\Problem1SeriesOfLetters.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem1SeriesOfLetters\bin\Debug\Problem1SeriesOfLetters.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem1SeriesOfLetters\bin\Debug\Problem1SeriesOfLetters.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem1SeriesOfLetters\obj\Debug\Problem1SeriesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem1SeriesOfLetters\obj\Debug\Problem1SeriesOfLetters.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem1SeriesOfLetters\obj\Debug\Problem1SeriesOfLetters.pdb

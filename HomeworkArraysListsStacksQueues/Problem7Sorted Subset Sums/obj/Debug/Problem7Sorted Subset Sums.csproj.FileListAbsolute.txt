@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem7Sorted Subset Sums\bin\Debug\Problem7Sorted Subset Sums.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem7Sorted Subset Sums\bin\Debug\Problem7Sorted Subset Sums.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem7Sorted Subset Sums\bin\Debug\Problem7Sorted Subset Sums.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem7Sorted Subset Sums\obj\Debug\Problem7Sorted Subset Sums.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem7Sorted Subset Sums\obj\Debug\Problem7Sorted Subset Sums.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem7Sorted Subset Sums\obj\Debug\Problem7Sorted Subset Sums.csprojResolveAssemblyReference.cache

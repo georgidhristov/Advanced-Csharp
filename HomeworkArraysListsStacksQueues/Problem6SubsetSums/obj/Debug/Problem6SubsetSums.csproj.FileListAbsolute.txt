@@ -1,0 +1,12 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\bin\Debug\Problem6SubsetSums.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\bin\Debug\Problem6SubsetSums.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\bin\Debug\Problem6SubsetSums.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\obj\Debug\Problem6SubsetSums.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\obj\Debug\Problem6SubsetSums.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\obj\Debug\Problem6SubsetSums.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\bin\Debug\Problem6SubsetSums.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\obj\Debug\Problem6SubsetSums.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\obj\Debug\Problem6SubsetSums.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\bin\Debug\Problem6SubsetSums.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\bin\Debug\Problem6SubsetSums.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem6SubsetSums\obj\Debug\Problem6SubsetSums.csprojResolveAssemblyReference.cache

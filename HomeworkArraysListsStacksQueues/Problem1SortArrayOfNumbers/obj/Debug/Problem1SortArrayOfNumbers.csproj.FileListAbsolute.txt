@@ -1,0 +1,9 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem1SortArrayOfNumbers\bin\Debug\Problem1SortArrayOfNumbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem1SortArrayOfNumbers\bin\Debug\Problem1SortArrayOfNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem1SortArrayOfNumbers\bin\Debug\Problem1SortArrayOfNumbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem1SortArrayOfNumbers\obj\Debug\Problem1SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem1SortArrayOfNumbers\obj\Debug\Problem1SortArrayOfNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem1SortArrayOfNumbers\obj\Debug\Problem1SortArrayOfNumbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem1SortArrayOfNumbers\bin\Debug\Problem1SortArrayOfNumbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem1SortArrayOfNumbers\obj\Debug\Problem1SortArrayOfNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem1SortArrayOfNumbers\obj\Debug\Problem1SortArrayOfNumbers.pdb

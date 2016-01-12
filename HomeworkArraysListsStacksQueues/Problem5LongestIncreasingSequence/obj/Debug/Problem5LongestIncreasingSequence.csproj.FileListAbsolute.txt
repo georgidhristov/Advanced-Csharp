@@ -1,0 +1,9 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem5LongestIncreasingSequence\bin\Debug\Problem5LongestIncreasingSequence.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem5LongestIncreasingSequence\bin\Debug\Problem5LongestIncreasingSequence.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem5LongestIncreasingSequence\bin\Debug\Problem5LongestIncreasingSequence.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem5LongestIncreasingSequence\obj\Debug\Problem5LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem5LongestIncreasingSequence\obj\Debug\Problem5LongestIncreasingSequence.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem5LongestIncreasingSequence\obj\Debug\Problem5LongestIncreasingSequence.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem5LongestIncreasingSequence\bin\Debug\Problem5LongestIncreasingSequence.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem5LongestIncreasingSequence\obj\Debug\Problem5LongestIncreasingSequence.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem5LongestIncreasingSequence\obj\Debug\Problem5LongestIncreasingSequence.pdb

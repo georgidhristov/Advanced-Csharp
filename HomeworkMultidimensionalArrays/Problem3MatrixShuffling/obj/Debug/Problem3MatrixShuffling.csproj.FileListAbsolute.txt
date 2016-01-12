@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem3MatrixShuffling\bin\Debug\Problem3MatrixShuffling.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem3MatrixShuffling\bin\Debug\Problem3MatrixShuffling.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem3MatrixShuffling\bin\Debug\Problem3MatrixShuffling.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem3MatrixShuffling\obj\Debug\Problem3MatrixShuffling.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem3MatrixShuffling\obj\Debug\Problem3MatrixShuffling.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem3MatrixShuffling\obj\Debug\Problem3MatrixShuffling.csprojResolveAssemblyReference.cache

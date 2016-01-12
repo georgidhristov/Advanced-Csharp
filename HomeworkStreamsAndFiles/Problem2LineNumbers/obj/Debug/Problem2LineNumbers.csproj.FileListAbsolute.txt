@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStreamsAndFiles\Problem2LineNumbers\bin\Debug\Problem2LineNumbers.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStreamsAndFiles\Problem2LineNumbers\bin\Debug\Problem2LineNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStreamsAndFiles\Problem2LineNumbers\bin\Debug\Problem2LineNumbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStreamsAndFiles\Problem2LineNumbers\obj\Debug\Problem2LineNumbers.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStreamsAndFiles\Problem2LineNumbers\obj\Debug\Problem2LineNumbers.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStreamsAndFiles\Problem2LineNumbers\obj\Debug\Problem2LineNumbers.csprojResolveAssemblyReference.cache

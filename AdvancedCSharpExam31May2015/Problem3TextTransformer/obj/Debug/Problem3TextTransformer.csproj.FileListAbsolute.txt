@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem3TextTransformer\bin\Debug\Problem3TextTransformer.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem3TextTransformer\bin\Debug\Problem3TextTransformer.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem3TextTransformer\bin\Debug\Problem3TextTransformer.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem3TextTransformer\obj\Debug\Problem3TextTransformer.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem3TextTransformer\obj\Debug\Problem3TextTransformer.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem3TextTransformer\obj\Debug\Problem3TextTransformer.pdb

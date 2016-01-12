@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem3CountSubstringOccurrences\bin\Debug\Problem3CountSubstringOccurrences.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem3CountSubstringOccurrences\bin\Debug\Problem3CountSubstringOccurrences.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem3CountSubstringOccurrences\bin\Debug\Problem3CountSubstringOccurrences.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem3CountSubstringOccurrences\obj\Debug\Problem3CountSubstringOccurrences.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem3CountSubstringOccurrences\obj\Debug\Problem3CountSubstringOccurrences.pdb

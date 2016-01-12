@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\Problem2TheSieveOfEratosthenes\bin\Debug\Problem2TheSieveOfEratosthenes.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\Problem2TheSieveOfEratosthenes\bin\Debug\Problem2TheSieveOfEratosthenes.exe
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\Problem2TheSieveOfEratosthenes\bin\Debug\Problem2TheSieveOfEratosthenes.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\Problem2TheSieveOfEratosthenes\obj\Debug\Problem2TheSieveOfEratosthenes.exe
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\Problem2TheSieveOfEratosthenes\obj\Debug\Problem2TheSieveOfEratosthenes.pdb

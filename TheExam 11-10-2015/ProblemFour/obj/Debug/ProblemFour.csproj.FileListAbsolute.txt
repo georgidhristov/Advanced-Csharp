@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\TheExam 11-10-2015\ProblemFour\bin\Debug\ProblemFour.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\TheExam 11-10-2015\ProblemFour\bin\Debug\ProblemFour.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\TheExam 11-10-2015\ProblemFour\bin\Debug\ProblemFour.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\TheExam 11-10-2015\ProblemFour\obj\Debug\ProblemFour.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\TheExam 11-10-2015\ProblemFour\obj\Debug\ProblemFour.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem4FirstLargerThanNeighbours\bin\Debug\Problem4FirstLargerThanNeighbours.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem4FirstLargerThanNeighbours\bin\Debug\Problem4FirstLargerThanNeighbours.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem4FirstLargerThanNeighbours\bin\Debug\Problem4FirstLargerThanNeighbours.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem4FirstLargerThanNeighbours\obj\Debug\Problem4FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem4FirstLargerThanNeighbours\obj\Debug\Problem4FirstLargerThanNeighbours.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem4FirstLargerThanNeighbours\obj\Debug\Problem4FirstLargerThanNeighbours.pdb

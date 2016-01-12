@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem3RageQuit\bin\Debug\Problem3RageQuit.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem3RageQuit\bin\Debug\Problem3RageQuit.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem3RageQuit\bin\Debug\Problem3RageQuit.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem3RageQuit\obj\Debug\Problem3RageQuit.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem3RageQuit\obj\Debug\Problem3RageQuit.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem3RageQuit\obj\Debug\Problem3RageQuit.pdb

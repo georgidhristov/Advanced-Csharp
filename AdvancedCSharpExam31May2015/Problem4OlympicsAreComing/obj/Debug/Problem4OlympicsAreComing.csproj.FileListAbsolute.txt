@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem4OlympicsAreComing\bin\Debug\Problem4OlympicsAreComing.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem4OlympicsAreComing\bin\Debug\Problem4OlympicsAreComing.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem4OlympicsAreComing\bin\Debug\Problem4OlympicsAreComing.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem4OlympicsAreComing\obj\Debug\Problem4OlympicsAreComing.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem4OlympicsAreComing\obj\Debug\Problem4OlympicsAreComing.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem4OlympicsAreComing\obj\Debug\Problem4OlympicsAreComing.pdb

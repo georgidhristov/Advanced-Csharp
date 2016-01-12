@@ -1,0 +1,12 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\bin\Debug\Problem4SequencesOfEqualStrings.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\bin\Debug\Problem4SequencesOfEqualStrings.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\bin\Debug\Problem4SequencesOfEqualStrings.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\obj\Debug\Problem4SequencesOfEqualStrings.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\obj\Debug\Problem4SequencesOfEqualStrings.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\obj\Debug\Problem4SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\bin\Debug\Problem4SequencesOfEqualStrings.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\obj\Debug\Problem4SequencesOfEqualStrings.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\obj\Debug\Problem4SequencesOfEqualStrings.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\bin\Debug\Problem4SequencesOfEqualStrings.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\bin\Debug\Problem4SequencesOfEqualStrings.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem4SequencesOfEqualStrings\obj\Debug\Problem4SequencesOfEqualStrings.csprojResolveAssemblyReference.cache

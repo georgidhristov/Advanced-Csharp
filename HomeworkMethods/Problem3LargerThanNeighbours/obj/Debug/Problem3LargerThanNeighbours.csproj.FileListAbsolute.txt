@@ -1,0 +1,11 @@
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkMethods\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkMethods\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkMethods\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkMethods\Problem3LargerThanNeighbours\obj\Debug\Problem3LargerThanNeighbours.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkMethods\Problem3LargerThanNeighbours\obj\Debug\Problem3LargerThanNeighbours.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem3LargerThanNeighbours\obj\Debug\Problem3LargerThanNeighbours.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem3LargerThanNeighbours\bin\Debug\Problem3LargerThanNeighbours.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem3LargerThanNeighbours\obj\Debug\Problem3LargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem3LargerThanNeighbours\obj\Debug\Problem3LargerThanNeighbours.pdb

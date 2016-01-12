@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem4SentenceExtractor\bin\Debug\Problem4SentenceExtractor.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem4SentenceExtractor\bin\Debug\Problem4SentenceExtractor.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem4SentenceExtractor\bin\Debug\Problem4SentenceExtractor.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem4SentenceExtractor\obj\Debug\Problem4SentenceExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem4SentenceExtractor\obj\Debug\Problem4SentenceExtractor.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem4SentenceExtractor\obj\Debug\Problem4SentenceExtractor.pdb

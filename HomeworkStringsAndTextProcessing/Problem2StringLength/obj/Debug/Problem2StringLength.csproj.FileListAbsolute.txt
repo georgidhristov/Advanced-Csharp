@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem2StringLength\bin\Debug\Problem2StringLength.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem2StringLength\bin\Debug\Problem2StringLength.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem2StringLength\bin\Debug\Problem2StringLength.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem2StringLength\obj\Debug\Problem2StringLength.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem2StringLength\obj\Debug\Problem2StringLength.pdb

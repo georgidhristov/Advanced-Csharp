@@ -1,0 +1,8 @@
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem4TextFilter\bin\Debug\Problem4TextFilter.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem4TextFilter\bin\Debug\Problem4TextFilter.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem4TextFilter\bin\Debug\Problem4TextFilter.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem4TextFilter\obj\Debug\Problem4TextFilter.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem4TextFilter\obj\Debug\Problem4TextFilter.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem4TextFilter\bin\Debug\Problem4TextFilter.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem4TextFilter\obj\Debug\Problem4TextFilter.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem4TextFilter\obj\Debug\Problem4TextFilter.pdb

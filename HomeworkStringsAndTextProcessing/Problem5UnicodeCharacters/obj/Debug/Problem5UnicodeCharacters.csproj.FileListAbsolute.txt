@@ -1,0 +1,11 @@
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem5UnicodeCharacters\bin\Debug\Problem5UnicodeCharacters.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem5UnicodeCharacters\bin\Debug\Problem5UnicodeCharacters.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem5UnicodeCharacters\bin\Debug\Problem5UnicodeCharacters.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem5UnicodeCharacters\obj\Debug\Problem5UnicodeCharacters.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkStringsAndTextProcessing\Problem5UnicodeCharacters\obj\Debug\Problem5UnicodeCharacters.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem5UnicodeCharacters\bin\Debug\Problem5UnicodeCharacters.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem5UnicodeCharacters\obj\Debug\Problem5UnicodeCharacters.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem5UnicodeCharacters\obj\Debug\Problem5UnicodeCharacters.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem5UnicodeCharacters\bin\Debug\Problem5UnicodeCharacters.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem5UnicodeCharacters\bin\Debug\Problem5UnicodeCharacters.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem5UnicodeCharacters\obj\Debug\Problem5UnicodeCharacters.csprojResolveAssemblyReference.cache

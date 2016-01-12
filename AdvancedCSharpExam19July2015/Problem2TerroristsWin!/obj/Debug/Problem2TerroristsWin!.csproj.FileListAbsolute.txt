@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem2TerroristsWin!\bin\Debug\Problem2TerroristsWin!.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem2TerroristsWin!\bin\Debug\Problem2TerroristsWin!.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem2TerroristsWin!\bin\Debug\Problem2TerroristsWin!.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem2TerroristsWin!\obj\Debug\Problem2TerroristsWin!.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem2TerroristsWin!\obj\Debug\Problem2TerroristsWin!.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam19July2015\Problem2TerroristsWin!\obj\Debug\Problem2TerroristsWin!.pdb

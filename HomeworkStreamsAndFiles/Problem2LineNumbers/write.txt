@@ -1,0 +1,8 @@
+1: Write a program
+2: that reads a text file
+3: and inserts line
+4: numbers in front of each of its lines.
+5: The result should be written
+6: to another text file.
+7: Use StreamReader
+8: in combination with StreamWriter.

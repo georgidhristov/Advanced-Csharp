@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem2ReplaceAtag\bin\Debug\Problem2ReplaceAtag.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem2ReplaceAtag\bin\Debug\Problem2ReplaceAtag.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem2ReplaceAtag\bin\Debug\Problem2ReplaceAtag.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem2ReplaceAtag\obj\Debug\Problem2ReplaceAtag.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem2ReplaceAtag\obj\Debug\Problem2ReplaceAtag.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem2ReplaceAtag\obj\Debug\Problem2ReplaceAtag.csprojResolveAssemblyReference.cache

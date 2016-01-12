@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem6Palindromes\bin\Debug\Problem6Palindromes.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem6Palindromes\bin\Debug\Problem6Palindromes.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem6Palindromes\bin\Debug\Problem6Palindromes.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem6Palindromes\obj\Debug\Problem6Palindromes.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStringsAndTextProcessing\Problem6Palindromes\obj\Debug\Problem6Palindromes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem4SequenceInMatrix\bin\Debug\Problem4SequenceInMatrix.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem4SequenceInMatrix\bin\Debug\Problem4SequenceInMatrix.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem4SequenceInMatrix\bin\Debug\Problem4SequenceInMatrix.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem4SequenceInMatrix\obj\Debug\Problem4SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem4SequenceInMatrix\obj\Debug\Problem4SequenceInMatrix.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem4SequenceInMatrix\obj\Debug\Problem4SequenceInMatrix.pdb

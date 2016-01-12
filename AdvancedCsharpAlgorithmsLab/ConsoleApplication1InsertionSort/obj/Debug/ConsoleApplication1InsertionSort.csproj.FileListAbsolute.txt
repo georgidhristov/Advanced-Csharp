@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\ConsoleApplication1InsertionSort\bin\Debug\ConsoleApplication1InsertionSort.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\ConsoleApplication1InsertionSort\bin\Debug\ConsoleApplication1InsertionSort.exe
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\ConsoleApplication1InsertionSort\bin\Debug\ConsoleApplication1InsertionSort.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\ConsoleApplication1InsertionSort\obj\Debug\ConsoleApplication1InsertionSort.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\ConsoleApplication1InsertionSort\obj\Debug\ConsoleApplication1InsertionSort.exe
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\ConsoleApplication1InsertionSort\obj\Debug\ConsoleApplication1InsertionSort.pdb

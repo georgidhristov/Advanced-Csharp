@@ -1,0 +1,12 @@
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkMultidimensionalArrays\Problem2MaximalSum\bin\Debug\Problem2MaximalSum.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkMultidimensionalArrays\Problem2MaximalSum\bin\Debug\Problem2MaximalSum.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkMultidimensionalArrays\Problem2MaximalSum\bin\Debug\Problem2MaximalSum.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkMultidimensionalArrays\Problem2MaximalSum\obj\Debug\Problem2MaximalSum.exe
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkMultidimensionalArrays\Problem2MaximalSum\obj\Debug\Problem2MaximalSum.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\HomeworkMultidimensionalArrays\Problem2MaximalSum\obj\Debug\Problem2MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem2MaximalSum\bin\Debug\Problem2MaximalSum.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem2MaximalSum\obj\Debug\Problem2MaximalSum.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem2MaximalSum\obj\Debug\Problem2MaximalSum.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem2MaximalSum\bin\Debug\Problem2MaximalSum.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem2MaximalSum\bin\Debug\Problem2MaximalSum.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMultidimensionalArrays\Problem2MaximalSum\obj\Debug\Problem2MaximalSum.csprojResolveAssemblyReference.cache

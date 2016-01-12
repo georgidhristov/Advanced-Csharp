@@ -1,0 +1,1 @@
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\Problem5LargestRectangle\bin\Debug\Problem5LargestRectangle.exe.config

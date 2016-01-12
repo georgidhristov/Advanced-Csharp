@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\TheExam 11-10-2015\ProblemTwo\bin\Debug\ProblemTwo.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\TheExam 11-10-2015\ProblemTwo\bin\Debug\ProblemTwo.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\TheExam 11-10-2015\ProblemTwo\bin\Debug\ProblemTwo.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\TheExam 11-10-2015\ProblemTwo\obj\Debug\ProblemTwo.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\TheExam 11-10-2015\ProblemTwo\obj\Debug\ProblemTwo.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\TheExam 11-10-2015\ProblemTwo\obj\Debug\ProblemTwo.pdb

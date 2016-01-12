@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\ProblemTargetPractice\bin\Debug\ProblemTargetPractice.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\ProblemTargetPractice\bin\Debug\ProblemTargetPractice.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\ProblemTargetPractice\bin\Debug\ProblemTargetPractice.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\ProblemTargetPractice\obj\Debug\ProblemTargetPractice.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\ProblemTargetPractice\obj\Debug\ProblemTargetPractice.pdb

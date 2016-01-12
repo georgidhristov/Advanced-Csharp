@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem3ExtractEmails\bin\Debug\Problem3ExtractEmails.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem3ExtractEmails\bin\Debug\Problem3ExtractEmails.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem3ExtractEmails\bin\Debug\Problem3ExtractEmails.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem3ExtractEmails\obj\Debug\Problem3ExtractEmails.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem3ExtractEmails\obj\Debug\Problem3ExtractEmails.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkRegularExpressions\Problem3ExtractEmails\obj\Debug\Problem3ExtractEmails.csprojResolveAssemblyReference.cache

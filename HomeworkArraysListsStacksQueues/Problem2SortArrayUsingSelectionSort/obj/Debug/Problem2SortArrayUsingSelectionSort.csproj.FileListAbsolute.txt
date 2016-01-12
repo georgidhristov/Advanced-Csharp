@@ -1,0 +1,10 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem2SortArrayUsingSelectionSort\bin\Debug\Problem2SortArrayUsingSelectionSort.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem2SortArrayUsingSelectionSort\bin\Debug\Problem2SortArrayUsingSelectionSort.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem2SortArrayUsingSelectionSort\bin\Debug\Problem2SortArrayUsingSelectionSort.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem2SortArrayUsingSelectionSort\obj\Debug\Problem2SortArrayUsingSelectionSort.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem2SortArrayUsingSelectionSort\obj\Debug\Problem2SortArrayUsingSelectionSort.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem2SortArrayUsingSelectionSort\bin\Debug\Problem2SortArrayUsingSelectionSort.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem2SortArrayUsingSelectionSort\obj\Debug\Problem2SortArrayUsingSelectionSort.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem2SortArrayUsingSelectionSort\obj\Debug\Problem2SortArrayUsingSelectionSort.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem2SortArrayUsingSelectionSort\bin\Debug\Problem2SortArrayUsingSelectionSort.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem2SortArrayUsingSelectionSort\bin\Debug\Problem2SortArrayUsingSelectionSort.pdb

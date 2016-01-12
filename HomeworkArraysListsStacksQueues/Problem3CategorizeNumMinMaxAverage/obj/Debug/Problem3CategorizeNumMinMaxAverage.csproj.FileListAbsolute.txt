@@ -1,0 +1,9 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem3CategorizeNumMinMaxAverage\bin\Debug\Problem3CategorizeNumMinMaxAverage.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem3CategorizeNumMinMaxAverage\bin\Debug\Problem3CategorizeNumMinMaxAverage.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem3CategorizeNumMinMaxAverage\bin\Debug\Problem3CategorizeNumMinMaxAverage.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem3CategorizeNumMinMaxAverage\obj\Debug\Problem3CategorizeNumMinMaxAverage.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem3CategorizeNumMinMaxAverage\obj\Debug\Problem3CategorizeNumMinMaxAverage.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\Advanced C#\HomeworkArraysListsStacksQueues\Problem3CategorizeNumMinMaxAverage\obj\Debug\Problem3CategorizeNumMinMaxAverage.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem3CategorizeNumMinMaxAverage\bin\Debug\Problem3CategorizeNumMinMaxAverage.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem3CategorizeNumMinMaxAverage\obj\Debug\Problem3CategorizeNumMinMaxAverage.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkArraysListsStacksQueues\Problem3CategorizeNumMinMaxAverage\obj\Debug\Problem3CategorizeNumMinMaxAverage.pdb

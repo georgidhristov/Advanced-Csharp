@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1FillTheMatrix", "Problem1FillTheMatrix\Problem1FillTheMatrix.csproj", "{42C19741-388D-4A84-BE2D-6B0B67ADD8AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2MaximalSum", "Problem2MaximalSum\Problem2MaximalSum.csproj", "{742B6B0B-856E-4E0B-AFB6-97AE51AE0D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3MatrixShuffling", "Problem3MatrixShuffling\Problem3MatrixShuffling.csproj", "{D2DE7BF0-E3E8-4902-9406-32A2F3EF1EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4SequenceInMatrix", "Problem4SequenceInMatrix\Problem4SequenceInMatrix.csproj", "{A66F5FBA-6F27-4882-8166-EA323D3E6219}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5CollecTheCoins", "Problem5CollecTheCoins\Problem5CollecTheCoins.csproj", "{9FD17983-53F5-4AE3-8A53-BFEFD48AFE96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem6CountSymbols", "Problem6CountSymbols\Problem6CountSymbols.csproj", "{4A054CB4-C522-4F0B-8E33-C72F6269759F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem7Phonebook", "Problem7Phonebook\Problem7Phonebook.csproj", "{43FCC1A6-2D6E-4F7F-B18A-C721BE39FEC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42C19741-388D-4A84-BE2D-6B0B67ADD8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C19741-388D-4A84-BE2D-6B0B67ADD8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C19741-388D-4A84-BE2D-6B0B67ADD8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C19741-388D-4A84-BE2D-6B0B67ADD8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742B6B0B-856E-4E0B-AFB6-97AE51AE0D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742B6B0B-856E-4E0B-AFB6-97AE51AE0D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742B6B0B-856E-4E0B-AFB6-97AE51AE0D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742B6B0B-856E-4E0B-AFB6-97AE51AE0D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2DE7BF0-E3E8-4902-9406-32A2F3EF1EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DE7BF0-E3E8-4902-9406-32A2F3EF1EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DE7BF0-E3E8-4902-9406-32A2F3EF1EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DE7BF0-E3E8-4902-9406-32A2F3EF1EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66F5FBA-6F27-4882-8166-EA323D3E6219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66F5FBA-6F27-4882-8166-EA323D3E6219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66F5FBA-6F27-4882-8166-EA323D3E6219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66F5FBA-6F27-4882-8166-EA323D3E6219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD17983-53F5-4AE3-8A53-BFEFD48AFE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD17983-53F5-4AE3-8A53-BFEFD48AFE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD17983-53F5-4AE3-8A53-BFEFD48AFE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD17983-53F5-4AE3-8A53-BFEFD48AFE96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A054CB4-C522-4F0B-8E33-C72F6269759F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A054CB4-C522-4F0B-8E33-C72F6269759F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A054CB4-C522-4F0B-8E33-C72F6269759F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A054CB4-C522-4F0B-8E33-C72F6269759F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43FCC1A6-2D6E-4F7F-B18A-C721BE39FEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FCC1A6-2D6E-4F7F-B18A-C721BE39FEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FCC1A6-2D6E-4F7F-B18A-C721BE39FEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FCC1A6-2D6E-4F7F-B18A-C721BE39FEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

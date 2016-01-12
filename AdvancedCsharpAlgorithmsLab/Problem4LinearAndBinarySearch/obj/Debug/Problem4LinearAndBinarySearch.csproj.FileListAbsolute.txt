@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\Problem4LinearAndBinarySearch\bin\Debug\Problem4LinearAndBinarySearch.exe.config
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\Problem4LinearAndBinarySearch\bin\Debug\Problem4LinearAndBinarySearch.exe
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\Problem4LinearAndBinarySearch\bin\Debug\Problem4LinearAndBinarySearch.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\Problem4LinearAndBinarySearch\obj\Debug\Problem4LinearAndBinarySearch.exe
+c:\users\georgi\documents\visual studio 2013\Projects\AdvancedCsharpAlgorithmsLab\Problem4LinearAndBinarySearch\obj\Debug\Problem4LinearAndBinarySearch.pdb

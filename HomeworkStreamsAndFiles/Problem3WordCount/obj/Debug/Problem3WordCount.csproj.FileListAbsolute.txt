@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStreamsAndFiles\Problem3WordCount\bin\Debug\Problem3WordCount.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStreamsAndFiles\Problem3WordCount\bin\Debug\Problem3WordCount.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStreamsAndFiles\Problem3WordCount\bin\Debug\Problem3WordCount.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStreamsAndFiles\Problem3WordCount\obj\Debug\Problem3WordCount.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkStreamsAndFiles\Problem3WordCount\obj\Debug\Problem3WordCount.pdb

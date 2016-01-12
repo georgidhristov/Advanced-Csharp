@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem1CommandInterpreter\bin\Debug\Problem1CommandInterpreter.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem1CommandInterpreter\bin\Debug\Problem1CommandInterpreter.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem1CommandInterpreter\bin\Debug\Problem1CommandInterpreter.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem1CommandInterpreter\obj\Debug\Problem1CommandInterpreter.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem1CommandInterpreter\obj\Debug\Problem1CommandInterpreter.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\AdvancedCSharpExam31May2015\Problem1CommandInterpreter\obj\Debug\Problem1CommandInterpreter.pdb

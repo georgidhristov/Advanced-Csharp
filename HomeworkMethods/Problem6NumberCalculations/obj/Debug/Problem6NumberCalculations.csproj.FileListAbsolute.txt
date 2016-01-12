@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem6NumberCalculations\bin\Debug\Problem6NumberCalculations.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem6NumberCalculations\bin\Debug\Problem6NumberCalculations.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem6NumberCalculations\bin\Debug\Problem6NumberCalculations.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem6NumberCalculations\obj\Debug\Problem6NumberCalculations.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem6NumberCalculations\obj\Debug\Problem6NumberCalculations.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\SoftUni\FUNDAMENTAL LEVEL\Advanced C#\HomeworkMethods\Problem6NumberCalculations\obj\Debug\Problem6NumberCalculations.pdb
